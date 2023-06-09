@@ -1,4 +1,4 @@
-# <div align="center">Hey 👋!</div>  
+# <div align="center">Hi 👋, I'm geri</div>  
   
 
 <div align="center">
