@@ -17,24 +17,6 @@
 </div>  
   
 
-<br/>  
-
-
-## About Me  
-
-
-<div>- 🔭 I’m a freelancer 🐬</div>  
-  
-
-****  
-  
-
-<div>- 🌱 I’m currently learning Next.JS & React.JS</div>
-
-
-
-
-
 
   
 
